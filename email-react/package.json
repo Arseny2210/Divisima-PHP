@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html-react-parser": "^5.1.12",
+    "lucide-react": "^0.424.0"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
